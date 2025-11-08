@@ -1,7 +1,7 @@
 SET FOREIGN_KEY_CHECKS=0;
 
-CREATE DATABASE spiderflow;
-USE spiderflow;
+# CREATE DATABASE spiderflow;
+# USE spiderflow;
 
 DROP TABLE IF EXISTS `sp_flow`;
 CREATE TABLE `sp_flow` (
